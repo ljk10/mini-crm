@@ -26,7 +26,7 @@ Built with NestJS, PostgreSQL, Prisma, and JWT Authentication.
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/ljk10/mini-crm.git
 cd mini-crm-backend
 
 # Install dependencies
